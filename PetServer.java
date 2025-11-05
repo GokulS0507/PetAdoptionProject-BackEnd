@@ -71,7 +71,7 @@ public class PetServer {
             "{\"id\":41,\"name\":\"Marble\",\"type\":\"Fish\",\"breed\":\"Angelfish\",\"age\":1,\"imageURL\":\"https://loremflickr.com/500/400/fish?lock=307\"}," +
             "{\"id\":42,\"name\":\"Flash\",\"type\":\"Turtle\",\"breed\":\"Painted Turtle\",\"age\":4,\"imageURL\":\"https://loremflickr.com/500/400/turtle?lock=308\"}," +
             "{\"id\":43,\"name\":\"Tiny\",\"type\":\"Hamster\",\"breed\":\"Roborovski\",\"age\":1,\"imageURL\":\"https://loremflickr.com/500/400/hamster?lock=309\"}," +
-            "{\"id\":44,\"name\":\"Fluffy\",\"type\":\"Rabbit\",\"breed\":\"Mini Rex\",\"age\":2,\"imageURL\":\"https://loremflickr.com/500/400/rabbit?lock=310\"}," +
+            "{\"id\":44,\"name\":\"Fluffy\",\"type\":\"Rabbit\",\"breed\":\"Mini Rex\",\"age\":2,\"imageURL\":\"https://loremflickr.com/500/400/rabbit?lock=313\"}," +
             "{\"id\":45,\"name\":\"Chirpy\",\"type\":\"Parrot\",\"breed\":\"Budgerigar\",\"age\":1,\"imageURL\":\"https://loremflickr.com/500/400/parrot?lock=311\"}," +
             "{\"id\":46,\"name\":\"Pumpkin\",\"type\":\"Cat\",\"breed\":\"Maine Coon\",\"age\":3,\"imageURL\":\"https://loremflickr.com/500/400/cat?lock=312\"}," +
             "{\"id\":47,\"name\":\"Shadow\",\"type\":\"Dog\",\"breed\":\"Labrador\",\"age\":2,\"imageURL\":\"https://placedog.net/500/400?id=125\"}," +
@@ -98,3 +98,4 @@ public class PetServer {
         }
     }
 }
+
